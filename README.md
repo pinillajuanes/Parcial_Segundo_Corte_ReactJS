@@ -1,9 +1,9 @@
 # Parcial Segundo Corte Desarrollo Web 🚀
 
 
-Nombre completo estudiante :
+Nombre completo estudiante : Juan Esteban Pinilla Aguilera
 
-Codigo :
+Codigo : 244051
 
 **Descripción del Problema:**
 
