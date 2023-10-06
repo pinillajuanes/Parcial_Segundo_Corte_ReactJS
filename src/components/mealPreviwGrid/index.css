@@ -1,0 +1,11 @@
+.meal-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 1rem;
+}
+
+.meal-grid h2 {
+    grid-column-start: 1;
+    grid-column-end: 5;
+    margin-bottom: 5rem;
+}

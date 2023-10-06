@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+.page {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  padding: 2% 15%;
+}
+
+.meal-detail-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding: 0 5rem;
+}
+
+.meal-detail-container h1 {
+  margin-bottom: 5rem;
+  grid-column-start: 1;
+  grid-column-end:32;
+}
